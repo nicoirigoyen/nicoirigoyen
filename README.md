@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nicoirigoyen&label=Vistas&color=0e75b6&style=flat" alt="nicoirigoyen" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nicoirigoyen" alt="nicoirigoyen" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nicoirigoyen" alt="nicoirigoyen" /></a> </p> -->
 
 - 🔭 Actualmente estoy trabajando en **Pagina Web de TECHO**
 
