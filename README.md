@@ -1,35 +1,116 @@
-<h1 align="center">Hola 👋, Soy Nicolás Irigoyen Terré</h1>
-<h3 align="center">Un apasionado desarrollador Full-Stack</h3>
+### Hola mi amigo! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nicoirigoyen&label=Vistas&color=0e75b6&style=flat" alt="nicoirigoyen" /> </p>
+<img height="350px" width="1000px" src="./galaxy.gif"/>
 
-<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nicoirigoyen" alt="nicoirigoyen" /></a> </p> -->
+<table align= "center">
+  <tr>
+     <td align="center" width="140" height="112.43">
+      <a href="#macropower-tech" >
+        <img src="./icons/React-original.svg" width="48" height="48" alt="React.js" />
+      </a>
+      <br>React.js
+    </td>
+    <!-- <td align="center"  width="140" height="112.43">
+      <a href="#macropower-tech" >
+        <img src="./react-original.svg" width="48" height="48" alt="React Native" />
+      </a>
+      <br>React Native
+    </td> -->
+    <td align="center"  width="140" height="112.43">
+      <a href="#macropower-tech">
+        <img src="./icons//js-original_2.svg" width="48" height="48" alt="JavaScript" />
+      </a>
+      <br>JavaScript
+    </td>
+    <!-- <td align="center"  width="140" height="112.43">
+      <a href="#macropower-tech">
+        <img src="./typescript-original.svg" width="48" height="48" alt="TypeScript" />
+      </a>
+      <br>TypeScript
+    </td> -->
+    <td align="center"  width="140" height="112.43">
+      <a href="#macropower-tech">
+        <img src="./icons/Sass-original.svg" width="48" height="48" alt="Sass" />
+      </a>
+      <br>Sass
+    </td>
+    <tr>
+     <td align="center" width="140" height="112.43">
+      <a href="#macropower-tech">
+        <img src="./git.svg" width="48" height="48" alt="Git" />
+      </a>
+      <br>Git
+    </td>
+    <td align="center"  width="140" height="112.43">
+      <a href="#macropower-tech">
+        <img src="./nextjs.svg" width="48" height="48" alt="Next.js" />
+      </a>
+      <br>Next.js
+    </td>
+    </br>
+    <td align="center"  width="140" height="112.43">
+      <a href="#macropower-tech">
+        <img src="./Firebase_Logo_Standard_Lockup.svg" width="48" height="48" alt="Firebase" />
+      </a>
+      <br>Firebase
+    </td>
+    <td align="center"  width="140" height="112.43">
+      <a href="#macropower-tech">
+        <img src="./styled-components.svg" width="48" height="48" alt="FStyled-components" />
+      </a>
+      <br>Styled-components
+    </td>
+    <td align="center"  width="140" height="112.43">
+      <a href="#macropower-tech">
+        <img src="./python-original.svg" width="48" height="48" alt="Python" />
+      </a>
+      <br>Python
+    </td>
+   </tr>
+  </tr>
+  
+</table>
+</br>
 
-- 🔭 Actualmente estoy trabajando en **Pagina Web de TECHO**
+![Advanced English](https://img.shields.io/badge/-Advanced%20English-00C7B7?&logoWidth=5&style=for-the-badge) ✔️  
 
-- 🌱 Actualmente estoy aprendiendo **Jest**
+</br>
+📫 You can reach me:
+</br>
+<a href="https://www.linkedin.com/in/thalesbmc/"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-128.png" width="80">
+</br>
+</br>
+<a href="mailto:thalesbmc@gmail.com"><img src="https://image.flaticon.com/icons/svg/281/281769.svg" width="80"></a>
 
-- 👯 Estoy buscando colaborar en **Proyectos Full-Stack**
 
-- 👨‍💻 Mis proyectos [Deploy en proceso](Deploy en proceso)
+<img height="137px" src="https://github-readme-stats.vercel.app/api?username=thalesbmc&hide_border=true&hide_title=true&include_all_commits=true&count_private=true&show_icons=true&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40"/>
 
-- 📫 Contacto **nico.irigoyen.terre@hotmail.com**
+<img src="https://github-profile-trophy.vercel.app/?username=thalesbmc&column=7&theme=radical&no-frame=true&title=Commit,Repositories" />
 
-- 📄 Conoce mis experiencias [Portfolio](Portfolio)
-
-- ⚡ Hobbies **Deportes**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/nicolas-irigoyen-terre" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/nicolas-irigoyen-terre" height="30" width="40" /></a>
-<a href="https://fb.com/nicoirigo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nicoirigo" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100"><img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="100"><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100">
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://babeljs.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://mochajs.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
+  
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nicoirigoyen&show_icons=true&title_color=00dbaf&text_color=ffffff&locale=en&layout=compact" alt="nicoirigoyen" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nicoirigoyen&show_icons=true&title_color=00dbaf&text_color=ffffff&hide_border=true&locale=en" alt="nicoirigoyen" /></p>
+<h2 align="center">Repositories</h2>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nicoirigoyen&theme=dark" alt="nicoirigoyen" /></p>
+<p width="100%" align="center">
+  <a align="left" href="https://github.com/ThalesBMC/TylesClothing" title="Clothing store"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=thalesbmc&repo=TylesClothing&theme=nightowl"></a><a align="right" href="https://github.com/ThalesBMC/Food-App-with-RN" title="Delivery App"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=thalesbmc&repo=Food-App-with-RN&theme=nightowl"></a>
+</p>
+<br><br>
+<p width="100%" align="center">
+  <a align="left" href="https://github.com/ThalesBMC/React-Native-PomodoroAPP" title="Pomodoro with React Native"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=thalesbmc&repo=React-Native-PomodoroAPP&theme=nightowl"></a>
+  <a align="right" href="https://github.com/ThalesBMC/FocoSaudavel" title="Pomodoro with react.js"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=thalesbmc&repo=FocoSaudavel&theme=nightowl"></a>
+</p>
+<br><br>
+<br><br><br><br><br><br><br>
+<h4 align="center">
+  <a href="https://github.com/ThalesBMC?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
+</h4>
+
+ <a href="https://github.com/MacroPower/ThalesBMC">
+    <img src="https://komarev.com/ghpvc/?username=thalesbmc" alt="page views" />
+ </a>
+
