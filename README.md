@@ -30,13 +30,13 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nicoirigoyen&show_icons=true&title_color=00dbaf&text_color=#000000&locale=en&layout=compact" alt="nicoirigoyen" /></p>
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nicoirigoyen&show_icons=true&title_color=00dbaf&text_color=#000000&locale=en&layout=compact" alt="nicoirigoyen" /></p>
 
-<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nicoirigoyen&show_icons=true&title_color=#000000&text_color=#000000&hide_border=true&locale=en" alt="nicoirigoyen" /></p>
- -->
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nicoirigoyen&show_icons=true&title_color=#000000&text_color=#000000&hide_border=true&locale=en" alt="nicoirigoyen" /></p>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nicoirigoyen&theme=dark" alt="nicoirigoyen" /></p>
-
+ -->
 <p align="center">
   <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100"><img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="100"><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100">
 </p>
