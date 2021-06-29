@@ -1,4 +1,4 @@
-<h1 align="center" >Hola 👋, Soy Nicolás Irigoyen Terré</h1>
+<h1 align="center" >Hola <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, Soy Nicolás Irigoyen Terré</h1>
 <h3 align="center" color= #308446>Desarrollador Web Full-Stack</h3>
 
 <img height="350px" width="1000px" src="./linkedin.gif"/>
