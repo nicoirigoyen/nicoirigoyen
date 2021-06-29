@@ -1,11 +1,11 @@
 <h1 align="center">Hola 👋, Soy Nicolás Irigoyen Terré</h1>
-<h3 align="center">Un apasionado desarrollador Full-Stack</h3>
+<h3 align="center">Desarrollador Web Full-Stack</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nicoirigoyen&label=Vistas&color=0e75b6&style=flat" alt="nicoirigoyen" /> </p>
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nicoirigoyen" alt="nicoirigoyen" /></a> </p> -->
 
-- 🔭 Actualmente estoy trabajando en **Pagina Web de TECHO**
+<!-- - 🔭 Actualmente estoy trabajando en **Pagina Web de TECHO**
 
 - 🌱 Actualmente estoy aprendiendo testing con **Jest**
 
@@ -17,7 +17,7 @@
 
 - 📄 Conoce mis experiencias [Portfolio](Portfolio)
 
-- ⚡ Hobbies **Deportes**
+- ⚡ Hobbies **Deportes** -->
 
 <h3 align="left">Contactame:</h3>
 <p align="left">
