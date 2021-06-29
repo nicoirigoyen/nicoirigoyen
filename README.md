@@ -1,5 +1,5 @@
 <h1 align="center" >Hola 👋, Soy Nicolás Irigoyen Terré</h1>
-<h3 align="center" color= "#308446">Desarrollador Web Full-Stack</h3>
+<h3 align="center" color= #308446>Desarrollador Web Full-Stack</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nicoirigoyen&label=Vistas&color=0e75b6&style=flat" alt="nicoirigoyen" /> </p>
 
