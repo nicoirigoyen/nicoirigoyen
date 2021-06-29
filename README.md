@@ -1,5 +1,5 @@
 <h1 align="center" >Hola <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
-<h3 align="center" color= #308446>Soy Nicolás Irigoyen Terré - Desarrollador Web Full-Stack</h3>
+<h2 align="center" color= #308446>Soy Nicolás Irigoyen Terré - Desarrollador Web Full-Stack</h2>
 
 <img height="350px" width="1000px" src="./linkedin.gif"/>
 
