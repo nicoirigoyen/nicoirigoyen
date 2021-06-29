@@ -7,7 +7,7 @@
 
 - 🔭 Actualmente estoy trabajando en **Pagina Web de TECHO**
 
-- 🌱 Actualmente estoy aprendiendo **Jest**
+- 🌱 Actualmente estoy aprendiendo testing con **Jest**
 
 - 👯 Estoy buscando colaborar en **Proyectos Full-Stack**
 
